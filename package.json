@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.17.3",
     "fs": "0.0.1-security"
+  },
+  "engines": {
+    "node": "14.17.3"
   }
 }
