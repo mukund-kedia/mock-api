@@ -1,0 +1,387 @@
+{
+    "milestones": [
+        {
+            "id": 1,
+            "description": "In this milestone, we will learn to create different shapes using Inkscape.",
+            "title": "Creating Shapes",
+            "name": "creating_shapes",
+            "checkpoints": [
+                {
+                    "id": 1,
+                    "description": "Let's create a Donut shape using the lessons learnt so far.",
+                    "title": "Donut Example",
+                    "name": "donut_example",
+                    "steps": [
+                        {
+                            "id": "s0",
+                            "html_content": "Today we will be creating a donut.<br/> It can be created by removing a small circle from the centre of a big circle.",
+                            "tts_content": "Today we will be creating a donut. It can be created by removing a small circle from the centre of a big circle.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s1",
+                            "html_content": "We have a big circle. Let's create a smaller circle.",
+                            "tts_content": "We have a big circle. Let's create a smaller circle.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 292,
+                                "left": 337
+                            },
+                            "highlights": {
+                                "top": 263,
+                                "left": 160,
+                                "width": 160,
+                                "height": 160
+                            }
+                        },
+                        {
+                            "id": "s2",
+                            "html_content": "This is the <b>Select Tool</b>.<br/><hr/><p class=\"nudge-content\">Click on <b>Select</b> Icon.</p>",
+                            "tts_content": "This is the Select Tool. Click on Select Icon.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 94,
+                                "left": 50
+                            },
+                            "highlights": {
+                                "top": 139,
+                                "left": 0,
+                                "width": 31,
+                                "height": 33
+                            }
+                        },
+                        {
+                            "id": "s3",
+                            "html_content": "Click on the Circle to Select it.",
+                            "tts_content": "Click on the Circle to Select it.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 307,
+                                "left": 341
+                            },
+                            "highlights": {
+                                "top": 263,
+                                "left": 160,
+                                "width": 160,
+                                "height": 160
+                            }
+                        },
+                        {
+                            "id": "s4",
+                            "html_content": "We will duplicate this circle using COPY and PASTE.<hr/><p class=\"nudge-content\">Press <b>Ctrl + C</b> to <b>Copy</b>.</p>",
+                            "tts_content": "We will duplicate this circle using COPY and PASTE. Press Ctrl and C to Copy.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 272,
+                                "left": 350
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s5",
+                            "html_content": "We will duplicate this circle using COPY and PASTE.<hr/><p class=\"nudge-content\">Press <b>Ctrl + V</b> to <b>Paste</b>.</p>",
+                            "tts_content": "We will duplicate this circle using COPY and PASTE. Press Ctrl and V to paste.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 450,
+                                "left": 317
+                            },
+                            "highlights": {
+                                "top": 500,
+                                "left": 255,
+                                "width": 40,
+                                "height": 40
+                            }
+                        },
+                        {
+                            "id": "s6",
+                            "html_content": "We are changing the colour of the new circle to differentiate it from the other one.<hr/><p class=\"nudge-content\">Choose any <b>colour</b> of your choice.</p>",
+                            "tts_content": "We are changing the colour of the new circle to differentiate it from the other one. Choose any colour of your choice.",
+                            "nudge_type": "toppopup",
+                            "nudge_coordinates": {
+                                "top": 475,
+                                "left": 405
+                            },
+                            "highlights": {
+                                "top": 674,
+                                "left": 11,
+                                "width": 1000,
+                                "height": 25
+                            }
+                        },
+                        {
+                            "id": "s7",
+                            "html_content": "We are changing the size of the circle to make it smaller.<hr/><p class=\"nudge-content\">Type <b>75</b> in the <b>Width Box (W).</b></p>",
+                            "tts_content": "We are changing the size of the circle to make it smaller. Type 75 in the Width Box.",
+                            "nudge_type": "leftpopup",
+                            "nudge_coordinates": {
+                                "top": 40,
+                                "left": 328
+                            },
+                            "highlights": {
+                                "top": 107,
+                                "left": 575,
+                                "width": 72,
+                                "height": 25
+                            }
+                        },
+                        {
+                            "id": "s8",
+                            "html_content": "We are changing the size of the circle to make it smaller.<hr/><p class=\"nudge-content\">Type <b>75</b> in the <b>Height Box (H).</b></p>",
+                            "tts_content": "We are changing the size of the circle to make it smaller. Type 75 in the Height Box.",
+                            "nudge_type": "leftpopup",
+                            "nudge_coordinates": {
+                                "top": 40,
+                                "left": 453
+                            },
+                            "highlights": {
+                                "top": 106,
+                                "left": 700,
+                                "width": 72,
+                                "height": 25
+                            }
+                        },
+                        {
+                            "id": "s9",
+                            "html_content": "We have to select the circles to align them.<hr/><p class=\"nudge-content\">First, click and <b>Select</b> the smaller circle. Then, Hold <b>Shift</b> and <b>Select</b> the Big Circle.</p>",
+                            "tts_content": "We have to select the circles to align them. First, click and Select the smaller circle. Then, Hold Shift and Select the Big Circle.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 320,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s10",
+                            "html_content": "Align Tool has many aligning options.<hr/><p class=\"nudge-content\">Click on <b>Align</b> icon.</p>",
+                            "tts_content": "Align Tool has many aligning options. Click on Align icon.",
+                            "nudge_type": "downpopup",
+                            "nudge_coordinates": {
+                                "top": 124,
+                                "left": 673
+                            },
+                            "highlights": {
+                                "top": 74,
+                                "left": 772,
+                                "width": 32,
+                                "height": 30
+                            }
+                        },
+                        {
+                            "id": "s11",
+                            "html_content": "Click on \"<b>Center on Vertical Axis</b>\" Icon.",
+                            "tts_content": "Click on Center on Vertical Axis Icon.",
+                            "nudge_type": "leftpopup",
+                            "nudge_coordinates": {
+                                "top": 220,
+                                "left": 590
+                            },
+                            "highlights": {
+                                "top": 248,
+                                "left": 835,
+                                "width": 34,
+                                "height": 32
+                            }
+                        },
+                        {
+                            "id": "s12",
+                            "html_content": "Click on \"<b>Center on Horizontal Axis</b>\" Icon.",
+                            "tts_content": "Click on Center on Horizontal Axis Icon.",
+                            "nudge_type": "leftpopup",
+                            "nudge_coordinates": {
+                                "top": 255,
+                                "left": 590
+                            },
+                            "highlights": {
+                                "top": 284,
+                                "left": 835,
+                                "width": 34,
+                                "height": 32
+                            }
+                        },
+                        {
+                            "id": "s13",
+                            "html_content": "We have to cut/remove the smaller circle from the bigger circle.",
+                            "tts_content": "We have to cut or remove the smaller circle from the bigger circle.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 260,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s14",
+                            "html_content": "Click on <b>Path</b>.",
+                            "tts_content": "Click on Path",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 20,
+                                "left": 297
+                            },
+                            "highlights": {
+                                "top": 46,
+                                "left": 234,
+                                "width": 44,
+                                "height": 26
+                            }
+                        },
+                        {
+                            "id": "s15",
+                            "html_content": "Now, Click on <b>Difference</b>.",
+                            "tts_content": "Now, Click on Difference",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 170,
+                                "left": 528
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s16",
+                            "html_content": "Congratulations! You have successfully created a donut.",
+                            "tts_content": "Congratulations! You have successfully created a donut.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s17",
+                            "html_content": "Activity:<br/><br/>Recreate Target logo using the donut.<div class='target-nudge-wrapper'><img src='./icons/target-nudge.png' class='target-nudge'/></div>",
+                            "tts_content": "Recreate Target logo using the donut.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "description": "Let's not create a Donut shape using the lessons learnt so far.",
+                    "title": "Donut Example",
+                    "name": "donut_example",
+                    "steps": [
+                        {
+                            "id": "s0",
+                            "html_content": "Today we will be creating a donut.<br/> It can be created by removing a small circle from the centre of a big circle.",
+                            "tts_content": "Today we will be creating a donut. It can be created by removing a small circle from the centre of a big circle.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s1",
+                            "html_content": "We have a big circle. Let's create a smaller circle.",
+                            "tts_content": "We have a big circle. Let's create a smaller circle.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 292,
+                                "left": 337
+                            },
+                            "highlights": {
+                                "top": 263,
+                                "left": 160,
+                                "width": 160,
+                                "height": 160
+                            }
+                        },
+                        {
+                            "id": "s2",
+                            "html_content": "Congratulations! You have successfully created a donut.",
+                            "tts_content": "Congratulations! You have successfully created a donut.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s3",
+                            "html_content": "Activity:<br/><br/>Recreate Target logo using the donut.<div class='target-nudge-wrapper'><img src='./icons/target-nudge.png' class='target-nudge'/></div>",
+                            "tts_content": "Recreate Target logo using the donut.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "description": "Lorem ipsum",
+                    "title": "duck Example",
+                    "name": "donut_example",
+                    "steps": [
+                        {
+                            "id": "s0",
+                            "html_content": "Today we will be creating a donut.<br/> It can be created by removing a small circle from the centre of a big circle.",
+                            "tts_content": "Today we will be creating a donut. It can be created by removing a small circle from the centre of a big circle.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s1",
+                            "html_content": "We have a big circle. Let's create a smaller circle.",
+                            "tts_content": "We have a big circle. Let's create a smaller circle.",
+                            "nudge_type": "rightpopup",
+                            "nudge_coordinates": {
+                                "top": 292,
+                                "left": 337
+                            },
+                            "highlights": {
+                                "top": 263,
+                                "left": 160,
+                                "width": 160,
+                                "height": 160
+                            }
+                        },
+                        {
+                            "id": "s2",
+                            "html_content": "Congratulations! You have successfully created a donut.",
+                            "tts_content": "Congratulations! You have successfully created a donut.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        },
+                        {
+                            "id": "s3",
+                            "html_content": "Activity:<br/><br/>Recreate Target logo using the donut.<div class='target-nudge-wrapper'><img src='./icons/target-nudge.png' class='target-nudge'/></div>",
+                            "tts_content": "Recreate Target logo using the donut.",
+                            "nudge_type": "",
+                            "nudge_coordinates": {
+                                "top": 280,
+                                "left": 400
+                            },
+                            "highlights": {}
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
